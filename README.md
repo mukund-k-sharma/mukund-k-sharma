@@ -1,6 +1,6 @@
 # Hi there, I'm Mukund Kumar 👋
 
-> **Sr. Data Engineer (Staff Scope) | Engineering Leader | Distributed Systems Architect**
+## **Sr. Data Engineer (Staff Scope) | Engineering Leader | Distributed Systems Architect**
 >
 > I am an Engineering Leader with **14+ years** of experience architecting high-scale, cloud-native data platforms and driving enterprise infrastructure modernization. Operating at a Staff scope, I specialize in building highly reliable, automated systems that process **1B+ messages/day**. Recently completed an **M.Tech. in AI & ML from BITS Pilani**.
 
@@ -8,12 +8,12 @@
 
 ### 🚀 High-Impact Engineering
 
-<!-- * **Billion-Scale Processing:** Technical owner for multi-brand real-time and batch platforms at PayPal (Xoom, Honey, Swift, BCDC, Lifecycle), processing **1B+ messages/day** across streaming and Dataproc ecosystems. -->
-* **Cost & Efficiency:** Architected a BigQuery rationalization initiative (600+ unused tables), delivering **$77K+ annual savings per brand**.
-* **Global Compliance:** Led the end-to-end design for the **Xoom Australia regulatory data launch**, ensuring alignment with strict compliance and remediation strategies.
-* **Cloud Modernization:** Spearheaded the decommissioning of legacy on-prem **HAVASU infrastructure** to GCP Dataproc with zero data loss during cutovers.
-* **Resilience & Automation:** Implemented multi-zone failover and observability improvements at PayPal, reducing support effort from **160+ hours/sprint to ~20 hours**.
-* **Public Health Impact:** Architected the world's 1st COVID-19 Contact Tracing mobile app (**Covidwise**) and a state-wide HIPAA-compliant lab reporting system.
+* **Billion-Scale Processing:** Technical owner for multi-brand real-time and batch platforms processing **1B+ messages/day** across streaming and Dataproc ecosystems.
+* **Cost & Efficiency:** Architected a BigQuery rationalization initiative delivering **$77K+ annual savings per brand** and designed automation frameworks reducing testing time by **90%**.
+* **Enterprise Data Lakes:** Architected a **100+ TB distributed data lake** on GCP enabling competitor analytics and strategic pricing intelligence.
+* **Public Health Impact:** Spearheaded the world's 1st COVID-19 Contact Tracing mobile app (**Covidwise**) and a state-wide HIPAA-compliant lab reporting system integrating 200+ labs.
+* **Zero-Disruption Modernization:** Decommissioned legacy on-prem infrastructure to GCP with zero data loss and implemented failovers that reduced support effort from **160+ hours/sprint to ~20 hours**.
+* **Scale & Optimization:** Re-architected legacy data pipelines, reducing 800K-item processing from **100 minutes to 85 seconds** (enabling 10M+ imports/day).
 
 ---
 
