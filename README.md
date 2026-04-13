@@ -8,7 +8,7 @@
 
 ### 🚀 High-Impact Engineering
 
-* **Billion-Scale Processing:** Technical owner for multi-brand real-time and batch platforms at PayPal (Xoom, Honey, Swift, BCDC, Lifecycle), processing **1B+ messages/day** across streaming and Dataproc ecosystems.
+<!-- * **Billion-Scale Processing:** Technical owner for multi-brand real-time and batch platforms at PayPal (Xoom, Honey, Swift, BCDC, Lifecycle), processing **1B+ messages/day** across streaming and Dataproc ecosystems. -->
 * **Cost & Efficiency:** Architected a BigQuery rationalization initiative (600+ unused tables), delivering **$77K+ annual savings per brand**.
 * **Global Compliance:** Led the end-to-end design for the **Xoom Australia regulatory data launch**, ensuring alignment with strict compliance and remediation strategies.
 * **Cloud Modernization:** Spearheaded the decommissioning of legacy on-prem **HAVASU infrastructure** to GCP Dataproc with zero data loss during cutovers.
