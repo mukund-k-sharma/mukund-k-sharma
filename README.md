@@ -57,14 +57,16 @@
 
 ### 📊 GitHub Ecosystem
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-k-sharma&theme=dark" alt="Mukund's Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-k-sharma&theme=dark" alt="Mukund's Top Languages" />
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-k-sharma&theme=dark" alt="Streak" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-k-sharma&theme=dark" alt="Mukund's Top Languages" />
+</div>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=dark" height="175" />
