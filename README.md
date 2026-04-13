@@ -58,12 +58,12 @@
 ### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=tokyonight&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-k-sharma&layout=compact&theme=tokyonight&hide=html,css" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=dark" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-k-sharma&layout=compact&theme=dark&hide=html,css" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-k-sharma&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-k-sharma&theme=dark" alt="Streak" />
 </p>
 
 ---
