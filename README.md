@@ -61,8 +61,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-k-sharma&theme=dark" alt="Mukund's Profile Details" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-k-sharma&theme=dark" alt="Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-k-sharma&theme=dark" alt="Mukund's Top Languages" />
