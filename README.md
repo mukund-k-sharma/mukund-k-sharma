@@ -1,4 +1,4 @@
-# नमस्ते (Namaste), I'm Mukund Kumar 👋 <img src="https://komarev.com/ghpvc/?username=mukund-k-sharma&color=3498db&style=flat-square&label=VISITORS" align="right" />
+# नमस्ते (Namaste), I'm [Mukund Kumar](https://mukund-k-sharma.github.io/) 👋 <img src="https://komarev.com/ghpvc/?username=mukund-k-sharma&color=3498db&style=flat-square&label=VISITORS" align="right" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Staff+Data+Engineer;Distributed+Systems+Architect;Engineering+Leader;M.Tech+@+BITS+Pilani" alt="Typing SVG" /></a>
@@ -58,16 +58,12 @@
 ### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukund-k-sharma&theme=tokyonight&column=7&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=tokyonight&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-k-sharma&layout=compact&theme=tokyonight&hide=html,css" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-k-sharma&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,visual%20basic" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-k-sharma&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-k-sharma&theme=tokyonight" alt="Streak" />
 </p>
 
 ---
