@@ -8,15 +8,11 @@ I am a Staff-level Data Engineer specializing in high-scale, cloud-native platfo
 
 Here is a real-time overview of my open-source work and technical stack:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=transparent&hide_border=true&title_color=3498db&text_color=333" alt="Mukund's GitHub Stats" />
-</div>
+![Mukund's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=transparent&hide_border=true&title_color=3498db&text_color=333333)
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-k-sharma&layout=compact&theme=transparent&hide_border=true&title_color=3498db&text_color=333" alt="Mukund's Top Languages" />
-</div>
+![Mukund's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-k-sharma&layout=compact&theme=transparent&hide_border=true&title_color=3498db&text_color=333333)
 
 ### 🚀 Connect with Me
 
