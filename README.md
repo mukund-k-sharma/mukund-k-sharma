@@ -48,16 +48,18 @@
 
 ### 📊 GitHub Stats & Languages
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mukund-k-sharma&theme=transparent&hide_border=true&title_color=3498db&text_color=333333" alt="Mukund's GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mukund-k-sharma&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Mukund's Trophies" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukund-k-sharma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mukund's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-k-sharma&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,visual%20basic" alt="Most Used Languages" height="180" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-k-sharma&theme=transparent&title_color=3498db&text_color=333333" alt="Mukund's Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-k-sharma&theme=transparent&title_color=3498db&text_color=333333" alt="Mukund's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-k-sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
