@@ -31,8 +31,8 @@
   </tr>
 </table>
 
-*   **Public Health:** Architected the world's 1st COVID-19 Contact Tracing mobile app (**Covidwise**) and a state-wide HIPAA-compliant lab reporting system.
-*   **Global Launch:** Led end-to-end design for **Xoom Australia** regulatory data compliance.
+* **Public Health:** Architected the world's 1st COVID-19 Contact Tracing mobile app (**Covidwise**) and a state-wide HIPAA-compliant lab reporting system.
+* **Global Launch:** Led end-to-end design for **Xoom Australia** regulatory data compliance.
 
 ---
 
@@ -49,9 +49,22 @@
 
 ### 🎓 Education & Certifications
 
-*   🎓 **M.Tech. in AI & ML** – BITS Pilani (2025)
-*   🎓 **B.Tech. in CS & Engineering** – KIIT University (2011)
-*   📜 **GCP Professional Data Engineer** | **Professional Scrum Master 1**
+* 🎓 **M.Tech. in AI & ML** – BITS Pilani (2025)
+* 🎓 **B.Tech. in CS & Engineering** – KIIT University (2011)
+* 📜 **GCP Professional Data Engineer** | **Professional Scrum Master 1**
+* ♟️ **Runner-up** – Enterprise Chess Tournament (Shatranj)
+
+---
+
+### ✍️ Technical Blog
+
+I write about distributed systems, reinforcement learning, and the challenges of building large-scale data platforms.
+
+* 🚀 **[Teaching a 1B LLM to Control a Furnace: Predictive Braking with GRPO](https://github.com/mukund-k-sharma/heat-treatment-scheduler/blob/main/BLOG.md)**  
+  *Building a continuous physics digital twin and training a 1.2B parameter LLM via GRPO.*
+
+* ♞ **[Solving the Knight's Tour: Combinatorial Optimization through RL](https://github.com/mukund-k-sharma/knights_tour/blob/main/BLOG.md)**  
+  *Exploring the classic mathematical puzzle through state-space complexity and stateful episodes.*
 
 ---
 
@@ -94,5 +107,5 @@
 
 ### 🤝 Beyond Engineering
 
-*   **Give India Foundation:** Volunteer & Fundraiser (2012 – Present)
-*   **Health Initiatives:** Regular Blood Donor (Red Cross, Thalassemia & Sickle Cell Society)
+* **Give India Foundation:** Volunteer & Fundraiser (2012 – Present)
+* **Health Initiatives:** Regular Blood Donor (Red Cross, Thalassemia & Sickle Cell Society)
